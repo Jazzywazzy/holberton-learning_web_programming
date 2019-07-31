@@ -1,3 +1,4 @@
-<div id="white_on_red">White writing on a red background</div>
-<div style="color:white">White writing on red beackground</div>
-<div background="color:red"</div>
+#white_on_red{
+  background-color: red;
+  color:white;
+}
